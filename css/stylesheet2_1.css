@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+
+#header{  
+    height: 100px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    
+}
+
+#main{
+    height: 805px;
+    background-color: green;
+    display: flex;   
+    align-items: center;
+}
+
+#footer{
+    background-color: pink;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+
+#Menu{
+    display: inline-flex;
+    list-style: none;
+    background-color: yellow;
+    min-height:25px;
+    width: 100%; 
+    padding-left: 0px; 
+    margin: 0px;
+}
+
+#Menu li{ 
+    padding-right: 300px;
+    border-left: 3px solid black;
+    /* height: 25px;   */
+}

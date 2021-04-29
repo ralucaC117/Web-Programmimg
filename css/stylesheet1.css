@@ -1,0 +1,23 @@
+body {
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+.div_parinte{
+    width: 400px;
+    border: black 2px solid;
+    display: inline-flex;
+}
+
+.div_copil{
+    width: 200px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.div_copil img{
+    max-width: 200px;    
+}

@@ -1,0 +1,46 @@
+ol{
+    list-style-type: none;
+}
+
+li{
+    text-align: center; 
+    border: black 1px solid;
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+a {  
+    position: absolute;
+    top: 80%;
+    background-color: white;
+    opacity: 0.7;
+    width: 60%;
+    height: 10%;
+    font-size: 20px;
+ }
+
+ div{
+     position: relative; 
+     width:500px;
+     /* border: black 1px solid; */
+ }
+
+ button{
+     display: inline-block;
+ }
+
+ #prev{
+     float: left;
+     margin-top: 150px;
+ }
+
+ #next{
+    margin-top: -180px;
+    float: right;
+    margin-left: 30px;
+ }

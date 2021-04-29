@@ -1,0 +1,131 @@
+li {
+    list-style: none;
+    height: 84px;
+    display: inline-block;
+    /* display: block; */
+    margin-right: -4px;
+   
+
+}
+
+#facebook{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: 0px 84px;
+}
+
+#facebook:hover{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: 0px 0px;
+}
+
+#puncte{ 
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -84px 84px;
+}
+
+#puncte:hover{
+    background: url("css-pr4.png");
+    background-position: -84px 0px;
+}
+
+#minge{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -168px 84px;
+}
+
+#minge:hover{
+    background: url("css-pr4.png");
+    background-position: -168px 0px;
+}
+
+#gglplus{
+
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -252px 84px;
+}
+
+#gglplus:hover{
+    background: url("css-pr4.png");
+    background-position: -252px 0px;
+}
+
+#linkedin{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -336px 84px;
+}
+
+#linkedin:hover{
+    background: url("css-pr4.png");
+    background-position: -336px 0px;
+}
+
+#pinterest{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -420px 84px;
+}
+
+#pinterest:hover{
+    background: url("css-pr4.png");
+    background-position: -420px 0px;
+}
+
+#wifi{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -504px 84px;
+}
+
+#wifi:hover{
+    background: url("css-pr4.png");
+    background-position: -504px 0px;
+}
+#skype{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -588px 84px;
+}
+
+#skype:hover{
+    background: url("css-pr4.png");
+    background-position: -588px 0px;
+}
+
+#twitter{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -672px 84px;
+}
+
+#twitter:hover{
+    background: url("css-pr4.png");
+    background-position: -672px 0px;
+}
+
+#vidk{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -756px 84px;
+}
+
+#vidk:hover{
+    background: url("css-pr4.png");
+    background-position: -756px 0px;
+}
+
+#youtube{
+    width: 84px;
+    background: url("css-pr4.png");
+    background-position: -840px 84px;
+}
+
+#youtube:hover{
+    background: url("css-pr4.png");
+    background-position: -840px 0px;
+}

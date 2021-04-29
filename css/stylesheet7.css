@@ -1,0 +1,54 @@
+#dialog{
+    display: block;
+    list-style: none;
+    
+}
+
+li{
+    margin-left: 150px;
+    margin-bottom: 25px;
+    border: 1px solid peru;
+    background-color: peru;
+    min-width: 150px; 
+    min-height: 150px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.alice::before{
+    position: absolute;
+    content: "";
+    background:url("css-pr7.png") ;
+    background-position: -200px -25px;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+}
+
+.bob::before{
+    position: absolute;
+    content: "";
+    background:url("css-pr7.png") ;
+    background-position: 0px -380px;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+}
+
+li::after{
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 40px solid transparent;
+    border-right: 40px solid peru;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    left:120px;
+   
+}
+

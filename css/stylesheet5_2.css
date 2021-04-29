@@ -1,0 +1,38 @@
+ul{
+    position: fixed;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+}
+
+li{
+    list-style: none;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 20px solid aqua;
+    border-bottom-width: 0;
+    width: 150px;
+    background-color: aqua;
+   
+}
+
+
+img{
+    width: 150px;
+    height: 190px;
+
+}
+
+p{
+    /* background-color: aqua; */
+    margin: 0;
+    margin-top: -4px;
+    margin-left: -4px;
+    margin-right: -4px;
+    text-align: center;
+   
+}

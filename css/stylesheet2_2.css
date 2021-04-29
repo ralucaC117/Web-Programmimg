@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+}
+
+#header{  
+    height: 150px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    width: 100%;  
+}
+
+#main{
+    height: 770px;
+    background-color: green;
+    display: flex;   
+    align-items: center;
+    margin-left: 382px;
+}
+
+#footer{
+    background-color: pink;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    width: 100%;  
+}
+
+#Menu{
+    position: absolute;
+    display: block;
+    list-style: none;
+    background-color: yellow;
+    height:770px;
+    padding-left: 0px; 
+    margin: 0px;
+    
+}
+
+#Menu li{ 
+    margin-left: 0px;
+    border-bottom: 2px solid black ;
+    height: max-content;
+    width: 382px;
+}

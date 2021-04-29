@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+
+#header{  
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    
+}
+#Menu{
+    list-style: none;
+    background-color: yellow;
+    height:25px;
+    width: 100%; 
+    padding-left: 0px; 
+    margin: 0px;
+}
+
+#Menu li{
+    display: flex;
+    justify-content: center;    
+}
+
+#main{
+    /* font-size: 35px;    */
+    background-color: green;
+    min-height:805px;
+    display: flex;   
+    flex-direction: column;
+}
+
+#footer{
+    background-color: pink;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+
